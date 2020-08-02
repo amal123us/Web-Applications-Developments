@@ -1,2 +1,2 @@
-# Web-Applications-Developments
+# Django Polls Application
 My exercises
